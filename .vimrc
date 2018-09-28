@@ -39,4 +39,4 @@ let g:syntastic_check_on_wq=0
 let g:airline_theme='simple'
 let g:airline#extensions#branch#enabled=1
 
-
+syntax on
