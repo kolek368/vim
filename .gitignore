@@ -1,6 +1,11 @@
+bundle/clang_complete/
 bundle/jedi-vim/
 bundle/nerdtree/
 bundle/syntastic/
+bundle/tagbar/
+bundle/tsuquyomi/
+bundle/typescript-vim/
 bundle/vim-airline-themes/
 bundle/vim-airline/
+bundle/vim-dtsm/
 bundle/vim-fugitive/
